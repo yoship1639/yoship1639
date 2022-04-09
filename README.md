@@ -28,7 +28,10 @@
 
 #### Qiita
 
-- Contribution 4000~
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yoship1639/contributions.svg)](http://qiita.com/yoship1639)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yoship1639/followers.svg)](http://qiita.com/yoship1639)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yoship1639/posts.svg)](http://qiita.com/yoship1639)
+
 - C#タグ総合ユーザーランキング現6位
 - 【LGTM 350】 [Unityアプリを高速・安定化するために見直すべき事を9選まとめてみた](https://qiita.com/yoship1639/items/7339a6201b44a24fbdfe)
 - 【LGTM 246】 [ゲームの質を劇的に上げるカメラワークの3つの手法解説【減衰・FoV・手ブレ】](https://qiita.com/yoship1639/items/9bf6f8ad080b3c496b12)
